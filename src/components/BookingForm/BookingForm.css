@@ -1,0 +1,17 @@
+.bookingform {
+    h1 {
+        background: silver;
+    }
+    /* label {
+        display: flex;
+        flex-direction: column;
+        align-items: start;
+    } */
+    /* input, select {
+        width: 100%;
+    }
+    [type=checkbox] {
+        width: unset;
+    } */
+    
+}
